@@ -3,7 +3,7 @@ This project focuses on building an intelligent spam email detection system usin
 
 The workflow includes data preprocessing, text cleaning, feature extraction, model training, evaluation, and performance comparison. Multiple ML algorithms were explored to improve accuracy and generalization. The goal of this project is to demonstrate how ML can be applied to real-world cybersecurity and communication filtering problems.
 
-Key Features
+## Key Features ##
 
 Text preprocessing and tokenization
 
@@ -15,7 +15,7 @@ Performance metrics such as accuracy, precision, recall, and F1-score
 
 Scalable pipeline for future improvements
 
-Tech Stack
+## Tech Stack ##
 
 Python
 
@@ -27,7 +27,7 @@ Matplotlib / Seaborn (for visualization)
 
 NLP techniques (e.g., TF-IDF / Count Vectorization)
 
-Applications
+## Applications ##
 
 Email filtering systems
 
